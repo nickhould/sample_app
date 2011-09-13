@@ -8,5 +8,8 @@ group :development do
 end
 
 group :test do
-  gem 'rspec', '2.0.0.beta.18'
+  gem 'rspec-rails', '2.0.0.beta.18'
+  gem 'spork', '0.8.4'
+  gem 'webrat', '0.7.1'
 end
+
