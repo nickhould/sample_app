@@ -28,6 +28,7 @@ GEM
       activemodel (= 3.0.0.rc)
       activesupport (= 3.0.0.rc)
     activesupport (3.0.0.rc)
+    annotate (2.4.0)
     arel (0.4.0)
       activesupport (>= 3.0.0.beta)
     builder (2.1.2)
@@ -89,6 +90,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  annotate (= 2.4.0)
   rails (= 3.0.0.rc)
   rspec-rails (= 2.0.0.beta.18)
   spork (= 0.8.4)
